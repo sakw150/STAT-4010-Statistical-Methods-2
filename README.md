@@ -1,7 +1,7 @@
 # STAT 4010: Statistical Methods 2
 
 
-*SaYoPillow: Blockchain Integrated Privacy Assured IoMT Framework for Stress Management Considering Sleeping Habits* presents a dataset that has nine sleep related variables.  In this project, the sleep dataset will be explored. After exploring the properties of the dataset, a linear regression model will be generated to explore the relationship between physiological variables. Criterion-based methods such as AIC and BIC will be utilized to determine the model's accuracy. Note that dataset can be accessed by contacting the authors. 
+*SaYoPillow: Blockchain Integrated Privacy Assured IoMT Framework for Stress Management Considering Sleeping Habits* presents a dataset that has nine sleep related variables.  In this project, the sleep dataset will be explored. After exploring the properties of the dataset, a linear regression model will be generated to explore the relationship between physiological variables. Criterion-based methods such as AIC and BIC will be utilized to determine the model's accuracy. Note that dataset can be accessed by contacting the authors. Writeup and code associated will be provided.
 
 The project was based on the paper: *SaYoPillow: Blockchain Integrated Privacy Assured IoMT Framework for Stress Management Considering Sleeping Habits*
 
